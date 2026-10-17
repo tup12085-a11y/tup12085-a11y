@@ -1,7 +1,6 @@
 # Hey, I'm Benny 👨‍💻
 
-Informatics student at **Universitas Jember** who enjoys turning ideas into working web apps.
-
+Informatics student at **Universitas Jember** who enjoys turning ideas into working web apps.<br>
 Still early in the journey, but I like building things and figuring stuff out along the way.
 
 ---
